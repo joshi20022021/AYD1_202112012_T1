@@ -1,7 +1,5 @@
 # Evidencias de la Tarea
 
-Este documento muestra las capturas de los pasos realizados en la tarea.
-
 ---
 
 ## 📌 Captura 1
@@ -36,3 +34,4 @@ creacion de rama hotfix y release 2
 borrar rama hotfix
 
 ![Captura 5](./Capturas/Captura5.png)
+
