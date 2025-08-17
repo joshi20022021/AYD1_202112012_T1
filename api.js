@@ -4,7 +4,7 @@ const app = express();
 app.get('/', (req, res) => {
   res.json({
     nombre: 'Edgar Josías Cán Ajquejay',
-    'Cancion Favorita': "Sweet Child O' Mine",
+    album_favorito: "Appetite for Destruction" 
   });
 });
 
